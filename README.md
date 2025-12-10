@@ -69,3 +69,24 @@ The forensic image (wgu_scenario.001) was loaded into Autopsy and FTK Imager. Al
 
 The following critical digital artifacts were successfully extracted to the Desktop:
 
+<img width="494" height="691" alt="Image" src="https://github.com/user-attachments/assets/ab7b6c0d-f698-45b9-89a7-c839ed7fb008" />
+
+🎯 IV. Findings and Policy Violations
+The evidence points to several incidents of unauthorized activity, data exfiltration, and clear policy violations.
+
+
+
+A. Key Findings
+
+Explicit Intent to Exfiltrate: The recovered deleted file, secret.txt, contained the explicit instruction: "email: hacker123@gmail.com Remember to send confidential information and data to the designated email. Delete any evidence afterwards and make sure to not get caught doing me".
+
+This is strong evidence of an intent to disseminate confidential data and actively cover up the breach.
+
+
+
+Unauthorized Tool Use: The successful extraction of the executable file, logger.exe, from the Downloads folder indicates the presence and potential use of an unauthorized monitoring or logging tool on the corporate workstation.
+
+
+
+Data Compromise: The recovery of other potentially sensitive corporate files, such as balance_sheet.xlsx and todo.docx, from the Downloads and Documents folders, respectively, indicates unauthorized access to or manipulation of proprietary information.
+
