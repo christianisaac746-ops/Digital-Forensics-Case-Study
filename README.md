@@ -90,3 +90,17 @@ Unauthorized Tool Use: The successful extraction of the executable file, logger.
 
 Data Compromise: The recovery of other potentially sensitive corporate files, such as balance_sheet.xlsx and todo.docx, from the Downloads and Documents folders, respectively, indicates unauthorized access to or manipulation of proprietary information.
 
+B. Policy Violations Summary
+
+<img width="688" height="333" alt="Image" src="https://github.com/user-attachments/assets/2bcf9488-2399-4dd8-990e-7ab997ccb8fe" />
+
+✅ V. Conclusion
+The forensic investigation has successfully achieved its objectives by recovering numerous digital artifacts that clearly demonstrate unauthorized activity on the Windows 11 workstation. The most compelling evidence is the recovery of the deleted file secret.txt, which provides a written confession of intent to exfiltrate confidential data and actively cover up the crime.
+
+The combined evidence from deleted files, unauthorized executables, and browser artifacts strongly supports the conclusion that ABC Tech's policies have been severely violated, and the breach of confidential information is highly probable.
+
+
+
+
+
+
