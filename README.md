@@ -100,11 +100,12 @@ The forensic investigation has successfully achieved its objectives by recoverin
 The combined evidence from deleted files, unauthorized executables, and browser artifacts strongly supports the conclusion that ABC Tech's policies have been severely violated, and the breach of confidential information is highly probable.
 
 **Disclaimer & Terms of Use**
-Educational Purposes Only: The content of this laboratory walkthrough is intended solely for educational and portfolio demonstration purposes.
 
-Ethical Standards: All forensic techniques were performed in a controlled, virtualized environment. These methods should only be applied to systems where you have explicit, written legal authorization. Unauthorized access to computer systems is illegal and unethical.
+  + Educational Purposes Only: The content of this laboratory walkthrough is intended solely for educational and portfolio demonstration purposes.
 
-No Liability: The author assumes no responsibility for any actions taken by individuals based on the information provided in this document. Use of these techniques is at your own risk.
+  + Ethical Standards: All forensic techniques were performed in a controlled, virtualized environment. These methods should only be applied to systems where you have explicit, written legal authorization. Unauthorized access to computer systems is illegal and unethical.
+
+  + No Liability: The author assumes no responsibility for any actions taken by individuals based on the information provided in this document. Use of these techniques is at your own risk.
 
 
 
