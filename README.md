@@ -1,7 +1,7 @@
-🕵️ Digital Forensics Case Study: ABC Tech Confidential Data Breach
-Course: Digital Forensics in Cybersecurity - D829 Date: November 19, 2025 Analyst: Christian Rooks
+**Digital Forensics Case Study:** ABC Tech Confidential Data Breach
+**Course:** Digital Forensics in Cybersecurity - D829 Date: November 19, 2025 Analyst: Christian Rooks
 
-🚀 I. Introduction and Case Summary
+**I. Introduction and Case Summary**
 This document provides a formal and thorough account of a confidential data breach incident at ABC Tech. The primary concern was unauthorized access to, and the potential falsification or exfiltration of, crucial files from a suspected Windows 11 workstation.
 
 A. Investigation Scope and Objectives
@@ -22,7 +22,7 @@ The investigation adhered strictly to the industry-standard forensic process (Pr
 
 <img width="686" height="356" alt="Image" src="https://github.com/user-attachments/assets/91de5292-a3e3-4b9b-94d4-05b15e01f97a" />
 
-🏛️ II. Legal and Regulatory Framework
+**II. Legal and Regulatory Framework**
 The investigation was governed by a comprehensive framework of local laws, industry standards, and company policies to ensure the evidence gathering process was lawful, ethical, and forensically sound.
 
 A. Applicable Laws and Regulations
@@ -64,14 +64,14 @@ Acceptable Use Policy (AUP): Provided the legal basis for searching the employee
 
 Data Retention and Handling Policies: Guided the classification of compromised data and established the mandatory secure methodology for retaining the evidence.
 
-💾 III. Evidence Collection and Artifact Recovery
+**III. Evidence Collection and Artifact Recovery**
 The forensic image (wgu_scenario.001) was loaded into Autopsy and FTK Imager. All analysis was conducted on the forensic working copies (least disturbance principle).
 
 The following critical digital artifacts were successfully extracted to the Desktop:
 
 <img width="494" height="691" alt="Image" src="https://github.com/user-attachments/assets/ab7b6c0d-f698-45b9-89a7-c839ed7fb008" />
 
-🎯 IV. Findings and Policy Violations
+**IV. Findings and Policy Violations**
 The evidence points to several incidents of unauthorized activity, data exfiltration, and clear policy violations.
 
 
@@ -94,7 +94,7 @@ B. Policy Violations Summary
 
 <img width="688" height="333" alt="Image" src="https://github.com/user-attachments/assets/2bcf9488-2399-4dd8-990e-7ab997ccb8fe" />
 
-✅ V. Conclusion
+**V. Conclusion**
 The forensic investigation has successfully achieved its objectives by recovering numerous digital artifacts that clearly demonstrate unauthorized activity on the Windows 11 workstation. The most compelling evidence is the recovery of the deleted file secret.txt, which provides a written confession of intent to exfiltrate confidential data and actively cover up the crime.
 
 The combined evidence from deleted files, unauthorized executables, and browser artifacts strongly supports the conclusion that ABC Tech's policies have been severely violated, and the breach of confidential information is highly probable.
