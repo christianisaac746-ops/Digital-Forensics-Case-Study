@@ -107,7 +107,7 @@ The combined evidence from deleted files, unauthorized executables, and browser 
 
   + No Liability: The author assumes no responsibility for any actions taken by individuals based on the information provided in this document. Use of these techniques is at your own risk.
 
-
+"Licensed under the MIT License. See the LICENSE file for more details."
 
 
 
