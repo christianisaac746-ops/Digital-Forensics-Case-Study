@@ -99,7 +99,7 @@ The forensic investigation has successfully achieved its objectives by recoverin
 
 The combined evidence from deleted files, unauthorized executables, and browser artifacts strongly supports the conclusion that ABC Tech's policies have been severely violated, and the breach of confidential information is highly probable.
 
-**Disclaimer & Terms of Use**
+**Disclaimer & Terms of Use:**
 
   + Educational Purposes Only: The content of this laboratory walkthrough is intended solely for educational and portfolio demonstration purposes.
 
